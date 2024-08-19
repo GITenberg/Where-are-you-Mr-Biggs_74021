@@ -8,6 +8,9 @@ contributor:
     deathdate: 1973
     gutenberg_agent_id: '56976'
     url: http://www.gutenberg.org/2009/agents/56976
+covers:
+- cover_type: archival
+  image_path: 74021-h/images/cover.jpg
 creator:
   author:
     agent_name: Bond, Nelson S.
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34095
     wikipedia: https://en.wikipedia.org/wiki/Nelson_S._Bond
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74021#Where-are-you-Mr-Biggs
 gutenberg_issued: '2024-07-11'
 gutenberg_type: Text
 identifiers:
